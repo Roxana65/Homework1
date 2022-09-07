@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-06T10:30:54 EEST" name="Default suite" finished-at="2022-09-06T10:31:45 EEST" duration-ms="50943">
+    <groups>
+    </groups>
+    <test started-at="2022-09-06T10:30:54 EEST" name="Default test" finished-at="2022-09-06T10:31:45 EEST" duration-ms="50943">
+      <class name="tests.AddToCartTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AddToCartTest@48f278eb]" started-at="2022-09-06T10:30:54 EEST" name="setUp" finished-at="2022-09-06T10:31:04 EEST" duration-ms="9913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addToC()[pri:0, instance:tests.AddToCartTest@48f278eb]" started-at="2022-09-06T10:31:04 EEST" name="addToC" finished-at="2022-09-06T10:31:16 EEST" duration-ms="11897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToC -->
+        <test-method signature="addToCartResult()[pri:1, instance:tests.AddToCartTest@48f278eb]" started-at="2022-09-06T10:31:16 EEST" name="addToCartResult" finished-at="2022-09-06T10:31:45 EEST" duration-ms="28805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddToCartTest@48f278eb]" started-at="2022-09-06T10:31:45 EEST" name="tearDown" finished-at="2022-09-06T10:31:45 EEST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
